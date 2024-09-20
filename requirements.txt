@@ -1,0 +1,4 @@
+chromadb==0.5.5
+openai==1.46.1
+Requests==2.32.3
+tiktoken==0.7.0
